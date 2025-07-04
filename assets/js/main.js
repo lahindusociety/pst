@@ -105,6 +105,7 @@
     new window.Splide('.splide', {
         type: 'loop',
         perPage: 3,
+        // heightRatio: 0.5,
         breakpoints: {
             640: {
                 perPage: 1,
